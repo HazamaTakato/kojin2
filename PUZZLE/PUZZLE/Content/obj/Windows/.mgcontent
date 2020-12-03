@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/K018A1407/Desktop/フォルダまとめ/PUZZLE/PUZZLE/Content/titlebg.png</File>
+    <File>C:/Users/K018A1407/Desktop/フォルダまとめ/PUZZLE/PUZZLE/Content/ending.png</File>
+    <File>C:/Users/K018A1407/Desktop/フォルダまとめ/PUZZLE/PUZZLE/Content/titletext.png</File>
+    <File>C:/Users/K018A1407/Desktop/フォルダまとめ/PUZZLE/PUZZLE/Content/starttext.png</File>
+    <File>C:/Users/K018A1407/Desktop/フォルダまとめ/PUZZLE/PUZZLE/Content/wall.bmp</File>
+    <File>C:/Users/K018A1407/Desktop/フォルダまとめ/PUZZLE/PUZZLE/Content/block.bmp</File>
+    <File>C:/Users/K018A1407/Desktop/フォルダまとめ/PUZZLE/PUZZLE/Content/cursor.bmp</File>
+    <File>C:/Users/K018A1407/Desktop/フォルダまとめ/PUZZLE/PUZZLE/Content/fade.bmp</File>
+    <File>C:/Users/K018A1407/Desktop/フォルダまとめ/PUZZLE/PUZZLE/Content/gametext.png</File>
+    <File>C:/Users/K018A1407/Desktop/フォルダまとめ/PUZZLE/PUZZLE/Content/info.png</File>
+    <File>C:/Users/K018A1407/Desktop/フォルダまとめ/PUZZLE/PUZZLE/Content/load.bmp</File>
+    <File>C:/Users/K018A1407/Desktop/フォルダまとめ/PUZZLE/PUZZLE/Content/number.bmp</File>
+  </SourceFiles>
+</SourceFileCollection>
